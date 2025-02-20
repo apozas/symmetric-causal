@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/935979484.svg)](https://doi.org/10.5281/zenodo.14899767)
+
 ## Code to accompany *[Symmetric observations without symmetric causal explanations](https://www.arxiv.org/abs/2502.XXXXX)*
 #### Christian William, Patrick Remy, Jean-Daniel Bancal, Yu Cai, Nicolas Brunner, and Alejandro Pozas-Kerstjens
 
