@@ -1,6 +1,6 @@
 # Code for
 # Symmetric observations without symmetric causal explanations
-# arXiv:2502.XXXXX
+# arXiv:2502.14950
 #
 # Authors: Alejandro Pozas-Kerstjens
 #

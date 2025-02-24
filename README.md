@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/935979484.svg)](https://doi.org/10.5281/zenodo.14899767)
 
-## Code to accompany *[Symmetric observations without symmetric causal explanations](https://www.arxiv.org/abs/2502.XXXXX)*
+## Code to accompany *[Symmetric observations without symmetric causal explanations](https://www.arxiv.org/abs/2502.14950)*
 #### Christian William, Patrick Remy, Jean-Daniel Bancal, Yu Cai, Nicolas Brunner, and Alejandro Pozas-Kerstjens
 
-This is a repository containing the computational appendix of the article "*Symmetric observations without symmetric causal explanations*. Christian William, Patrick Remy, Jean-Daniel Bancal, Yu Cai, Nicolas Brunner, and Alejandro Pozas-Kerstjens. [arXiv:2502.XXXXX](https://www.arxiv.org/abs/2502.XXXXX)." It provides the codes for obtaining the results depicted in Figure 4 and Appendix C in the manuscript.
+This is a repository containing the computational appendix of the article "*Symmetric observations without symmetric causal explanations*. Christian William, Patrick Remy, Jean-Daniel Bancal, Yu Cai, Nicolas Brunner, and Alejandro Pozas-Kerstjens. [arXiv:2502.14950](https://www.arxiv.org/abs/2502.14950)." It provides the codes for obtaining the results depicted in Figure 4 and Appendix C in the manuscript.
 
 The code is written in Python.
 
@@ -31,14 +31,14 @@ Files:
 
 If you would like to cite this work, please use the following format:
 
-C. William, P. Remy, J.-D. Bancal, Y. Cai, N. Brunner, and A. Pozas-Kerstjens, _Symmetric observations without symmetric causal explanations_, arXiv:2502.XXXXX
+C. William, P. Remy, J.-D. Bancal, Y. Cai, N. Brunner, and A. Pozas-Kerstjens, _Symmetric observations without symmetric causal explanations_, arXiv:2502.14950
 
 ```
 @misc{william2025symmetric,
   author = {Christian William and Patrick Remy and Jean-Danial Bancal and Yu Cai and Nicolas Brunner and and Alejandro Pozas-Kerstjens},
   title = {Symmetric observations without symmetric causal explanations},
   archivePrefix = {arXiv},
-  eprint = {2502.XXXXX},
+  eprint = {2502.14950},
   year = {2025}
 }
 ```
